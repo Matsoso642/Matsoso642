@@ -12,7 +12,7 @@ I enjoy taking an idea, understanding the problem behind it, and figuring out ho
 
 I'm from Lesotho, and growing up here has strongly influenced the way I think about technology. I'm particularly interested in solutions that address problems faced by people and businesses in African communities.
 
-My journey into software engineering started with curiosity about how technology works. Over time, that curiosity turned into a passion for building software and solving problems.
+My journey into software engineering started with curiosity about how technology works. Over time, that curiosity turned ino a passion for building software and solving problems. 
 ---
 
 ## 🎓 Education & Experience
@@ -63,7 +63,7 @@ Languages
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>---
 
-##What I Want to Build
+## What I Want to Build
 
 I'm interested in building software that solves problems people actually experience.
 
@@ -96,17 +96,17 @@ At the moment, I'm particularly interested in:
 
 When I'm not coding, you'll probably find me:
 
-📖 Reading
-🍳 Cooking
-🧶 Knitting
-⚽ Watching soccer
-🎬 Watching suspense/thriller movies and shows
+- Reading
+- Cooking
+- Knitting
+- Watching soccer
+- Watching suspense/thriller movies and shows
 
-I also enjoy learning random things that have absolutely nothing to do with software engineering. 😅
+I also enjoy learning random things that have absolutely nothing to do with software engineering.
 
 ---
 
-##Let's Connect
+## Let's Connect
 
 I'm always open to meeting people, exchanging ideas, collaborating on projects, and learning something new.
 
